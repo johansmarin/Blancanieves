@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a09052
 Habie una vez una hermosa niña, que tenia una madrastra muy . aqui fue cuando
+=======
+Habie una vez una hermosa niÅ„a, que tenia una madrastra muy fea aqui algo paso
+>>>>>>> .merge_file_a13624
